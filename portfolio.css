@@ -1,0 +1,98 @@
+body {
+    background-color: rgba(211, 203, 203, 0.377);  
+}
+#apropos{
+    background-image:url(lap1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 85rem;
+    margin-top: -100px;
+}
+
+h1{
+    color: #f6f5f5;
+    text-align: center;
+    font-family:lato;
+    font-size: 80px;
+    padding-top: 300px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Hpic {
+    width: 330px;
+    height: 400px;
+    margin-top: 160px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 10px;
+}
+#Hpic:hover {
+    transform: translateY(-10px);  /* Transition Image */
+    transition: transform 0.5s;   /* Transition time */
+}
+    
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:lato;
+    font-size: 40px;
+    
+}
+
+.Mouse:hover{
+    color:#1687a7;
+}
+
+h2 {
+    color: #d17529;
+    text-align: center;
+    font-family:lato;
+    font-size: 40px;
+    padding-bottom: 20px;
+    margin-bottom: -10px;
+}
+
+#Logoshtrmlcss {
+    width: 500px;
+    height: 350px;
+    margin-bottom: 50px;
+}
+#Logoshtrmlcss:hover {
+    width: 510px;
+    height: 360px;
+}
+
+#Gitlink {
+   color: black;
+    text-align: center;
+    margin-left: 470px;
+    font-size: 30px;
+}
+#Gitlink:hover{
+        color:#1687a7;
+}
+
+#maillink {
+        color: black;
+        font-size: 30px;
+}
+#maillink:hover{
+    color: #1687a7;
+}
+
+#Githublogo {
+    width: 64px;
+    height: 64px; 
+    margin-bottom: 10px;
+}
+#Maillogo {
+    width: 55px;
+    height: 55px;
+    margin-top: 20px;
+    margin-bottom: -50px;
+}
